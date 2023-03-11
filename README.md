@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am Johnstone Wahome<br>ALX Software engineering Student Cohort 11 (Nov 2022 - Nov 2023)<br>👯 I’m looking forward to collaborate on Great and innovative projects, hackathons, and remote job opportunities. <br>👀 I’m interested in fullstack webdevelopment<br>🌱 🌱 I’m currently learning Python, Javascript, C programming Language<br>💞️ I’m looking to collaborate on frontend projects<br>📫 You can reach me via email at johnstonewahome@gmail.com<br>#DoingHardThings
+I am Johnstone Wahome<br>ALX Software engineering Student Cohort 11 (Nov 2022 - Nov 2023)
+<br>👯 I’m looking forward to collaborate on projects, hackathons, and remote job opportunities.
+<br>👀 I’m interested in fullstack webdevelopment
+<br>🌱 🌱 I’m currently learning Python, Javascript, C programming Language
+<br>💞️ I’m looking to collaborate on frontend projects
+<br>📫 You can reach me via email at johnstonewahome@gmail.com
+<br>#DoingHardThings
 
 
 # 💻 Tech Stack:
