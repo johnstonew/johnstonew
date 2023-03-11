@@ -3,7 +3,6 @@ I am Johnstone Wahome<br>ALX Software engineering Student Cohort 11 (Nov 2022 - 
 <br>👯 I’m looking forward to collaborate on projects, hackathons, and remote job opportunities.
 <br>👀 I’m interested in fullstack webdevelopment
 <br>🌱 🌱 I’m currently learning Python, Javascript, C programming Language
-<br>💞️ I’m looking to collaborate on frontend projects
 <br>📫 You can reach me via email at johnstonewahome@gmail.com
 <br>#DoingHardThings
 
@@ -17,9 +16,6 @@ I am Johnstone Wahome<br>ALX Software engineering Student Cohort 11 (Nov 2022 - 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=johnstonew&icon=0&color=0)](https://visitcount.itsvg.in)
