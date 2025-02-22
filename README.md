@@ -1,7 +1,7 @@
 # 💫 About Me:
 <br>👯 I’m looking forward to collaborate on projects, hackathons, and remote job opportunities.
 <br>👀 I’m interested in fullstack webdevelopment
-<br>🌱 🌱 I’m currently learning Python, Javascript, C programming Language
+<br>🌱 🌱 I’m currently learning NextJs, 
 <br>📫 You can reach me via email at johnstonewahome@gmail.com
 <br>#DoingHardThings
 
